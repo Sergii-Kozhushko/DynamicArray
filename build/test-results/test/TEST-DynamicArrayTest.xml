@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DynamicArrayTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-04-29T13:39:17" hostname="BLACKFISH0" time="0.033">
+  <properties/>
+  <testcase name="containsTest()" classname="DynamicArrayTest" time="0.011"/>
+  <testcase name="removeFirstTest()" classname="DynamicArrayTest" time="0.001"/>
+  <testcase name="fillFromFirst()" classname="DynamicArrayTest" time="0.003"/>
+  <testcase name="removeAtTest()" classname="DynamicArrayTest" time="0.002"/>
+  <testcase name="clearTest()" classname="DynamicArrayTest" time="0.001"/>
+  <testcase name="trimToSizeTest()" classname="DynamicArrayTest" time="0.001"/>
+  <testcase name="doubleCapacityTest()" classname="DynamicArrayTest" time="0.001"/>
+  <testcase name="addAtTest()" classname="DynamicArrayTest" time="0.0"/>
+  <testcase name="addToEnd1()" classname="DynamicArrayTest" time="0.0"/>
+  <testcase name="addToEnd5()" classname="DynamicArrayTest" time="0.0"/>
+  <testcase name="fillFromMid()" classname="DynamicArrayTest" time="0.001"/>
+  <testcase name="setTest()" classname="DynamicArrayTest" time="0.0"/>
+  <testcase name="fillFromLast()" classname="DynamicArrayTest" time="0.001"/>
+  <testcase name="isEmpty()" classname="DynamicArrayTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
